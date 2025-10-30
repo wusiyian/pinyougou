@@ -1,0 +1,167 @@
+.end .last_list {
+    width: 972px;
+    height: 59px;
+    margin: 18px auto;
+    text-align: center;
+}
+
+.end .last_list ul {
+    margin-bottom: 18px;
+    margin-top: 9px;
+}
+
+.end .last_list li {
+    float: left;
+    padding: 0 13px;
+    border-right: 1px solid #333333;
+}
+
+.end .last_list h4 {
+    font: 500 12px 'MicrosoftYaHei';
+}
+
+header {
+    border-bottom: 3px solid #b1191a;
+}
+
+header div {
+    width: 172px;
+    height: 61px;
+}
+
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.new {
+    height: 520px;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.title {
+    width: 100%;
+    height: 41px;
+    background-color: #ececec;
+}
+
+.title .left {
+    float: left;
+    font: 500 18px 'MicrosoftYaHei';
+    color: #333333;
+    height: 100%;
+    line-height: 41px;
+    margin-left: 10px;
+}
+
+.title .right {
+    float: right;
+    font: 500 14px 'MicrosoftYaHei';
+    height: 100%;
+    line-height: 41px;
+    margin-right: 10px;
+}
+
+.in .center ul {
+    margin: 55px 0 0 402px;
+}
+
+.in .center li {
+    position: relative;
+}
+
+.in .center ul input {
+    width: 240px;
+    height: 36px;
+    margin-bottom: 22px;
+}
+
+.in .center ul input[type=email] {
+    margin-bottom: 43px;
+}
+
+.in .center li .tip {
+    width: 250px;
+    height: 36px;
+    position: absolute;
+    top: 0;
+    left: 250px;
+    font: 500 12px 'MicrosoftYaHei';
+    background: url(../images/error.png) 0 7px no-repeat;
+    padding: 7px 0 7px 22px;
+    color: #df3033;
+}
+
+.in .center li h3 {
+    height: 20px;
+    width: 84px;
+    text-align: right;
+    position: absolute;
+    left: -80px;
+    top: 7px;
+    font: 14px 'MicrosoftYaHei';
+    color: #4d4d4d;
+}
+
+.in .center li .level {
+    position: absolute;
+    top: 36px;
+    left: 70px;
+    width: 250px;
+    height: 36px;
+}
+
+.in .center li .level .le,
+.in .center li .level h4 {
+    float: left;
+}
+
+.in .center li .level .le {
+    width: 34px;
+    height: 13px;
+    text-align: center;
+    padding: auto;
+    font: 12px 'SimSun';
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.in .center li .level h4 {
+    font: 12px 'MicrosoftYaHei';
+    color: #b3b3b3;
+    margin: 8px 10px 0;
+}
+
+.in .center input[type=checkbox] {
+    margin: 0 10px;
+    margin-left: 402px;
+    width: 16px;
+    height: 15px;
+}
+
+.in .center .box {
+    height: 20px;
+}
+
+.in .center span {
+    font: 12px 'MicrosoftYaHei';
+    vertical-align: top;
+}
+
+.in .center .blue {
+    color: #1ba1e6;
+}
+
+.in .center .run {
+    width: 200px;
+    height: 34px;
+    font: 14px 'MicrosoftYaHei';
+    color: #ffffff;
+    background-color: #c81623;
+    text-align: center;
+    line-height: 34px;
+    margin-left: 409px;
+    margin-top: 45px;
+    border: none;
+}

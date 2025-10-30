@@ -1,0 +1,46 @@
+nav .black,
+nav .white,
+nav li {
+    float: left;
+}
+
+nav .black a {
+    font: 600 16px 'MicrosoftYaHei-Bold';
+    color: #000000;
+    padding: 0 27px;
+}
+
+nav .white a {
+    font: 14px 'MicrosoftYaHei';
+    color: #666666;
+    padding: 0 22px;
+}
+
+nav .white a:hover {
+    color: #c81623
+}
+
+nav {
+    margin-top: 40px;
+    border-bottom: 2px solid #b1191a;
+}
+
+.images {
+    height: 120px;
+}
+
+.phone_list li {
+    width: 292px;
+    height: 458px;
+    float: left;
+    margin-right: 8px;
+    margin-top: 2px;
+}
+
+.phone_list ul li:nth-of-type(4n) {
+    margin-right: 0;
+}
+
+.phone_list li:hover {
+    border: 1px solid #b1191a;
+}
